@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Finalizou o método b.");
     }
 
-    static void c(){
+    static void c(){ // POR PADRÃO ASSUME A VISIBILIDADE DEFAULT- PUBLIC
         System.out.println("Entrou no método c.");
         //Thread.dumpStack();
         System.out.println("Finalizou o método c.");
