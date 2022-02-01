@@ -1,6 +1,9 @@
 package com.company.teste;
 
+import org.junit.jupiter.api.Test;
+
 public class Calculadora {
+    @Test
     public int somar(String expressao) {
         int soma = 0;
         for (String valorSomar: expressao.split("\\+"))

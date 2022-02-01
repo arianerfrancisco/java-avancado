@@ -7,3 +7,9 @@
  </ul>
 
 <h3> Este repositório foi criado para fins de <strong> ESTUDO </strong> 🤝 </h3>
+
+<h2> Referências </h2>
+
+[Debugging](https://web.dio.me/course/debugging-java/learning/97fc1d8d-4f01-4856-a1a2-85c6117ccc75/?back=/browse)
+
+[Junit](https://www.youtube.com/watch?v=W3fSgHrBzek)
